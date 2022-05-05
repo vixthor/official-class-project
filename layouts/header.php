@@ -9,7 +9,7 @@
 </head>
 <body class="bg-gray-100">
     <main>
-        <header class="m-3 d-md-none">
+        <header class="m-3">
             <div class="header-img">
                 <img src="" alt="">
             </div>
@@ -20,11 +20,13 @@
                 </div>
                 <div class="link flex align-center ">
                     <ul class="flex ">
-                        <li class="px-2 py-1"><a href="../pages/home.php">Home</a></li>
+                        <li class="px-2 py-1"><a href="../home.php">Home</a></li>
                         <li class="px-2 py-1"><a href="../pages/about.php">About</a></li>
-                        <li class="px-2 py-1"><a href="#">Contact Us</a></li>
-                        <li class="border border-teal-500 px-1 py-1 hover:bg-teal-500 hover:text-white rounded-lg"><a href="../pages/signup.php">Sign Up</a></li>
+                        <li class="px-2 py-1"><a href="../pages/contact_Us.php">Contact Us</a></li>
+                        <li class="border border-teal-500 px-3 py-1 hover:bg-teal-500 hover:text-white rounded-3xl"><a href="../pages/signup.php">Sign Up</a></li>
                     </ul>
                 </div>
             </nav>
         </header>
+
+        
