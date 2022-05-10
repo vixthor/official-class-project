@@ -1,7 +1,7 @@
 <?php require("../layouts/header.php")  ?>
 
 <div class="">
-            <form action="user.php" method="post" class=" bg-teal-100 my-32  mx-auto space-y-6 max-w-3xl p-5 border border-gray-500 rounded-lg">
+            <form action="user.php" method="post" class=" bg-teal-100 my-24  mx-auto space-y-6 max-w-3xl p-5 border border-gray-500 rounded-lg">
                 <h2 class="text-3xl text-center pt-3 font-semibold">Sign Up</h2>
                 <p class="text-medium text-gray-600">Fill in the form below to sign in</p>
                <div class="flex space-x-3">

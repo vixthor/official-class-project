@@ -13,9 +13,19 @@
 }
 
 .link ul li{
-    margin-right: 12px;
+    margin-right: 16px;
 }
 
 input{
     @apply py-2 block border w-full rounded focus:outline-none focus:border-teal-500 px-4
+}
+.contact_Us{
+    background-image: url("../images/contact-us-6933645.jpg");
+    background-size: cover;
+    height: 250px;
+    
+}
+
+.right-side{
+    font-family: 'Macondo', cursive;
 }

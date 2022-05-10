@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./layouts/header.php", "./pages/index.php"],
+  content: ['./pages/about.php','./pages/contact_Us.php', './home.php', './pages/signup.php','./layouts/header.php','./layouts/footer.php'],
   theme: {
     extend: {},
   },
