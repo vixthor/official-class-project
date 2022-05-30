@@ -1,4 +1,6 @@
-<?php include_once("./layouts/header.php")  ?>
+<?php include_once("./layouts/header.php"); 
+require('./vendor/autoload.php');
+?>
 <main>
     <div>
         <h1>Vixthor</h1>
