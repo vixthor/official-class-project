@@ -21,7 +21,7 @@
                 <div class="logo"><a href="#"><img src="../assets/images/—Pngtree—wolf bolt emblem mascot head_5172938.png" alt=""></a></div>
                 <div class="link flex align-center ">
                     <ul class="flex ">
-                        <li class="px-2 py-1"><a href="../home.php">Home</a></li>
+                        <li class="px-2 py-1"><a href="../index.php">Home</a></li>
                         <li class="px-2  py-1"><a href="../pages/about.php">About</a></li>
                         <li class="px-2 py-1"><a href="../pages/contact_Us.php">Contact Us</a></li>
                         <li class="px-2 py-1 border border-teal-500 hover:bg-teal-500 hover:text-white rounded-3xl"><a href="../pages/contact_Us.php">C.V.</a></li>
