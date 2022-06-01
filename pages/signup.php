@@ -1,7 +1,7 @@
 <?php require("../layouts/header.php")  ?>
 
-<div class="">
-            <form action="#" method="post" class=" form_image my-24  mx-auto space-y-6 max-w-3xl p-5 border border-gray-500 rounded-lg">
+<div class="px-12">
+            <form action="#" method="post" class=" form_image my-24  mx-auto space-y-6 max-w-3xl p-5 border border-gray-500 rounded-3xl">
                 <h2 class="text-3xl text-center pt-3 font-semibold">Sign Up</h2>
                 <p class="text-medium text-gray-600">Fill in the form below to sign in</p>
         

@@ -1,0 +1,138 @@
+
+.main{
+    margin: 0 auto;
+    display: flex;
+}
+.left{
+    width:40%; 
+    height:100%; 
+    display:flex; 
+    flex-direction:column;
+    background-color: rgb(8, 31, 65);
+}
+.right{
+    width:60%; 
+    height:100%; 
+    display:flex;
+    color: rgb(8, 31, 65); 
+    flex-direction:column;
+    background-color: white;
+}
+.list{
+    display:flex; 
+    flex-direction:column;  
+    padding:11px; 
+    align-items:center;
+    
+}
+.list li i{
+    margin-right:10px;
+}
+.color_header{
+    width: 100%;
+    background-color: rgb(246, 194,10);
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+}
+.color_header_blue{
+    width: 100%;
+    color: rgb(192,175, 33) ;
+    background-color: rgb(8, 31,65);
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+}
+.list_item{
+    margin-bottom:12px;
+}
+.list_item2{
+    display: flex;
+    align-items: center;
+    margin-bottom:12px;
+}
+.list_item3{
+    display: flex;
+    align-items: center;
+    margin-bottom:5px;
+}
+.list_item2 label{
+    margin-right:10px;
+}
+.list_item input{
+    color:rgb(246, 194,10);
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+.Work_E p{
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.Work_E h3{
+    font-size: 19px;
+    /* margin-bottom: 5px; */
+    font-weight: bold;
+
+}
+.Work_E h4{
+    font-size: 13px;
+    margin-bottom: 10px;
+
+}
+.first{
+    height: 20%;
+}
+.second{
+    height: 30%;
+}
+.second table{
+    border-collapse: collapse; 
+    width:100%;
+    height: 100%;
+}
+.third{
+    width: 100%; height:40%
+}
+.fourth{
+    height: 154px
+}
+@media screen and (min-width: 960px) {
+    body {
+      background-color: lightgreen;
+    }
+    .Work_E p{
+        font-size: 20px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .Work_E h3{
+        font-size: 30px;
+        margin-bottom: 10px;
+        font-weight: bold;
+    
+    }
+    .Work_E h4{
+        font-size: 22px;
+        margin-bottom: 10px;
+    
+    }
+    .right{
+        font-size: 20px;
+    }
+    .second{
+        height: 300px;
+    }
+    .fourth{
+        height:290px
+    }
+  }
