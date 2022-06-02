@@ -1,5 +1,6 @@
 <?php require("../layouts/header.php") ?>
-    <div class="main" style="width: 95%; height:100%">
+   <main class="bg-zinc-200">
+   <div class="cvmain flex bg-white" style="width: 95%; height:100%">
         <div class="left" style="width:40%; height:100%">
             <div class="profile_image" style="margin-bottom:16px">
                 <img src="../assets/images/original.jpg" alt="" style="width:100%;">
@@ -95,4 +96,5 @@
         </div>
         
     </div>
+   </main>
 <?php require("../layouts/footer.php") ?>

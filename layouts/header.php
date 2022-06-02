@@ -44,7 +44,7 @@
                 <div class="logo"><a href="#"><img src="../assets/images/—Pngtree—wolf bolt emblem mascot head_5172938.png" alt=""></a></div>
                 <div class="link flex align-center ">
                     <ul class="flex sidebar" id="mySidebar">
-                        <li class="px-2 py-1"><a href="../home.php">Home</a></li>
+                        <li class="px-2 py-1"><a href="../index.php">Home</a></li>
                         <li class="px-2  py-1"><a href="../pages/about.php">About</a></li>
                         <li class="px-2 py-1"><a href="../pages/contact_Us.php">Contact Us</a></li>
                         <li class="px-2 py-1 border border-teal-500 hover:bg-teal-500 hover:text-white rounded-3xl"><a href="../pages/cv.php">C.V.</a></li>
@@ -52,7 +52,7 @@
                     </ul>
                 </div>
                 <div class="text-2xl social_link bold mr-3 flex text-center">
-                    <button onclick="OpenNav()"  class="focus:outline openbtn focus:outline-2 focus:outline-offset-2 focus:outline-pink-500">
+                    <button onclick="Change()"  class="focus:outline openbtn focus:outline-2 focus:outline-offset-2 focus:outline-pink-500">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
   <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
 </svg>

@@ -10,17 +10,17 @@
                     <img class="rounded-t-2xl w-full h-full" src="../assets/images/pexels-rebecca-zaal-764681.jpg" alt="">
             </div>
             <div class="h-1/3 card_text text-center p-2 ">
-            <h2 class="text-lg mb-2 lg:text-4xl">Lorem ipsum dolor,</h2>
-            <p class="text-md font-light">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores nostrum</p>
+            <h2 class="text-lg mb-2 lg:text-4xl">Contact Us</h2>
+            <p class="text-md font-light">Contact us through +234-90-7613-7513</p>
             </div>
         
         </div>
         <div class="right-side border h-96 border-teal-500 rounded-2xl">
-            <div class="card_image h-1/2">
+            <div class="card_image h-2/3">
                 <img class="rounded-t-2xl w-full h-full" src="../assets/images/pexels-oleksandr-pidvalnyi-2781814.jpg" alt="">
-            <div class="card_text p-3 h-1/2 items-center align-middle flex flex-col">
-            <h2 class="text-lg lg:text-4xl mb-2 font-Macondo">Lorem ipsum </h2>
-            <p class="text-md font-light">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores nostrum quis optio hic quos culpa, eos incidunt quasi tconsequatur fugit rerum a debitis beatae!</p>
+            <div class="card_text p-3 h-1/3 items-center align-middle flex flex-col">
+            <h2 class="text-lg lg:text-4xl mb-2 font-Macondo">Our Address </h2>
+            <p class="text-md font-light">Find us at the Shop 18, Cedi Plaza, Abuja.</p>
             </div>
            
         </div>
